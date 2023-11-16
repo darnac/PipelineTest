@@ -6,8 +6,10 @@
     "jest": "^29.7.0"
   },
 
-  "start": "node src",
-  "test": "jest src/app.test.js"
+  "scripts": {
+    "start": "node src",
+    "test": "jest src/app.test.js"
+}
 
 
 }
